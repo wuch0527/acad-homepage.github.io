@@ -27,8 +27,8 @@ author:
   location         : "上海, 中国"
   employer         :
   pubmed           : 
-  谷歌学术          : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  邮箱             : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  Email             : "Lorem@ipsum.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
